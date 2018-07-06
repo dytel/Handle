@@ -1,0 +1,14 @@
+c:\users\dytel\source\repos\HandleLance\HandleLance\bin\Debug\HandleLance.exe.config
+c:\users\dytel\source\repos\HandleLance\HandleLance\bin\Debug\HandleLance.exe
+c:\users\dytel\source\repos\HandleLance\HandleLance\bin\Debug\HandleLance.pdb
+c:\users\dytel\source\repos\HandleLance\HandleLance\obj\Debug\HandleLance.csprojResolveAssemblyReference.cache
+c:\users\dytel\source\repos\HandleLance\HandleLance\obj\Debug\HandleLance.Properties.Resources.resources
+c:\users\dytel\source\repos\HandleLance\HandleLance\obj\Debug\HandleLance.csproj.GenerateResource.Cache
+c:\users\dytel\source\repos\HandleLance\HandleLance\obj\Debug\HandleLance.csproj.CoreCompileInputs.cache
+c:\users\dytel\source\repos\HandleLance\HandleLance\obj\Debug\HandleLance.exe
+c:\users\dytel\source\repos\HandleLance\HandleLance\obj\Debug\HandleLance.pdb
+c:\users\dytel\source\repos\HandleLance\HandleLance\bin\Debug\HandleLanceSettings.dll
+c:\users\dytel\source\repos\HandleLance\HandleLance\bin\Debug\HandleLanceSettings.pdb
+c:\users\dytel\source\repos\HandleLance\HandleLance\obj\Debug\HandleLance.HandLanseForm.resources
+c:\users\dytel\source\repos\HandleLance\HandleLance\bin\Debug\KompasProgram.dll
+c:\users\dytel\source\repos\HandleLance\HandleLance\bin\Debug\KompasProgram.pdb

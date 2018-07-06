@@ -1,0 +1,6 @@
+c:\users\dytel\source\repos\HandleLance\HandleLanceSettings\obj\Debug\HandleLanceSettings.csprojResolveAssemblyReference.cache
+c:\users\dytel\source\repos\HandleLance\HandleLanceSettings\obj\Debug\HandleLanceSettings.csproj.CoreCompileInputs.cache
+c:\users\dytel\source\repos\HandleLance\HandleLanceSettings\bin\Debug\HandleLanceSettings.dll
+c:\users\dytel\source\repos\HandleLance\HandleLanceSettings\bin\Debug\HandleLanceSettings.pdb
+c:\users\dytel\source\repos\HandleLance\HandleLanceSettings\obj\Debug\HandleLanceSettings.dll
+c:\users\dytel\source\repos\HandleLance\HandleLanceSettings\obj\Debug\HandleLanceSettings.pdb

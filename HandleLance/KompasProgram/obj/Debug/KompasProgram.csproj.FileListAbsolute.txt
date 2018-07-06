@@ -1,0 +1,12 @@
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\KompasProgram.csprojResolveAssemblyReference.cache
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\Interop.Kompas6API5.dll
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\Interop.Kompas6Constants.dll
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\Interop.Kompas6Constants3D.dll
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\KompasProgram.csproj.ResolveComReference.cache
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\KompasProgram.csproj.CoreCompileInputs.cache
+c:\users\dytel\source\repos\HandleLance\KompasProgram\bin\Debug\KompasProgram.dll
+c:\users\dytel\source\repos\HandleLance\KompasProgram\bin\Debug\KompasProgram.pdb
+c:\users\dytel\source\repos\HandleLance\KompasProgram\bin\Debug\HandleLanceSettings.dll
+c:\users\dytel\source\repos\HandleLance\KompasProgram\bin\Debug\HandleLanceSettings.pdb
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\KompasProgram.dll
+c:\users\dytel\source\repos\HandleLance\KompasProgram\obj\Debug\KompasProgram.pdb
